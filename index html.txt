@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DealFlash - Real-Time Shopping Deals</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header, footer { background-color: #003366; color: white; text-align: center; padding: 1em 0; }
+    main { padding: 2em; max-width: 800px; margin: auto; }
+    h1, h2 { color: #003366; }
+    .section { margin-bottom: 2em; }
+    a { color: #007BFF; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>DealFlash</h1>
+    <p>Real-Time Shopping Deals, Personalized for You</p>
+  </header>
+
+  <main>
+    <section class="section">
+      <h2>About DealFlash</h2>
+      <p>DealFlash is a subscription-based mobile app that delivers real-time, personalized shopping deals to users. We aggregate affiliate offers from top retailers like Amazon, Walmart, and Best Buy so users never miss a great deal.</p>
+    </section>
+
+    <section class="section">
+      <h2>Services</h2>
+      <ul>
+        <li>Free deal alerts</li>
+        <li>Premium alerts with early access and exclusive discounts</li>
+        <li>Affiliate offers from trusted partners</li>
+        <li>Sponsored deal promotion for brands and sellers</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Pricing</h2>
+      <ul>
+        <li><strong>Free Plan:</strong> Limited daily deal notifications</li>
+        <li><strong>Premium Plan:</strong> $4.99/month or $49/year</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:support@dealflashapp.com">support@dealflashapp.com</a></p>
+    </section>
+
+    <section class="section">
+      <h2>Legal</h2>
+      <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 DealFlash. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
